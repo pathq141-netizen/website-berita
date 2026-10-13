@@ -1,0 +1,8 @@
+{
+  "name": "ALFATH × DONWAY NEWSROOM",
+  "short_name": "AD Newsroom",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#102342"
+}
